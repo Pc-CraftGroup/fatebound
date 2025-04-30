@@ -1,5 +1,3 @@
 @echo off
 cls
-del "temp.bat"
-echo test
-pause
+pause >nul
