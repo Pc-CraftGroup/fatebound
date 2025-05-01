@@ -1,3 +1,4 @@
 @echo off
 cls
+echo Fatebound V1.0
 pause >nul
