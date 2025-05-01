@@ -1,4 +1,4 @@
 @echo off
 cls
-echo Fatebound V1.0
+echo Fatebound V1.0 Testing
 pause >nul
